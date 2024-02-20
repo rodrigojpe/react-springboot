@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RodrigoCartappApplication<rodrigo-cartapp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.rodrigo.backend.cartapp.rodrigocartapp.RodrigoCartappApplication",
+            "projectName": "rodrigo-cartapp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
